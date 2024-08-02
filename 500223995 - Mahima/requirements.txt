@@ -1,0 +1,5 @@
+flask
+pandas
+docker
+github
+scikit-learn
